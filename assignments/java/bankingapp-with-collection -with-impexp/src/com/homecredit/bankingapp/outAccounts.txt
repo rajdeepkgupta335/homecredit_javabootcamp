@@ -1,0 +1,8 @@
+1,sam,loan,20000.0,Shalimar garden
+2,shivani,saving,115600.0,preet vihar
+3,neha thakur,current,10230.0,cyber city
+4,priya panchal,loan,154000.0,laxmi nagar
+5,ram,saving,54655.0,pitampura
+6,nishu verma,current,154000.0,dilshad garden
+7,riya shrivastav,saving,44000.0,rajendar nagar
+8,ravi mishra,loan,34055.0,vivek vihar

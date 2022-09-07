@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bankingapp-with-arrays/bankingapp-with-arrays.iml" filepath="$PROJECT_DIR$/bankingapp-with-arrays/bankingapp-with-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bankingapp-with-collection/bankingapp-with-collection.iml" filepath="$PROJECT_DIR$/bankingapp-with-collection/bankingapp-with-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bankingapp-with-collection -with-execption/bankingapp-with-collection -with-execption.iml" filepath="$PROJECT_DIR$/bankingapp-with-collection -with-execption/bankingapp-with-collection -with-execption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bankingapp-with-collection -with-impexp/bankingapp-with-collection -with-impexp.iml" filepath="$PROJECT_DIR$/bankingapp-with-collection -with-impexp/bankingapp-with-collection -with-impexp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bankingapp-with-collection -with-java8/bankingapp-with-collection -with-java8.iml" filepath="$PROJECT_DIR$/bankingapp-with-collection -with-java8/bankingapp-with-collection -with-java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bankingapp-with-collection -with-jdbc/bankingapp-with-collection -with-jdbc.iml" filepath="$PROJECT_DIR$/bankingapp-with-collection -with-jdbc/bankingapp-with-collection -with-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bankingapp-with-collection -with-stats/bankingapp-with-collection -with-stats.iml" filepath="$PROJECT_DIR$/bankingapp-with-collection -with-stats/bankingapp-with-collection -with-stats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bankingapp-with-collection -with-threading/bankingapp-with-collection -with-threading.iml" filepath="$PROJECT_DIR$/bankingapp-with-collection -with-threading/bankingapp-with-collection -with-threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-labs/core-java-labs.iml" filepath="$PROJECT_DIR$/core-java-labs/core-java-labs.iml" />
+    </modules>
+  </component>
+</project>

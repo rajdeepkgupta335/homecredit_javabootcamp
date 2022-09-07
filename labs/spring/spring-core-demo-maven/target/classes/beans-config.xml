@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"       xsi:schemaLocation="http://www.springframework.org/schema/beans        https://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!-- services -->
+    <bean id="swift" class="com.labs.spring.core.Car" autowire="byName"  >
+        <!--<property name="engine" ref="petrol"/>-->
+        <property name="color" value="Grey"/>
+        <property name="maker" value="Maruti"/>
+        <property name="model" value="Maruti-Suzki-Vdi"/>
+
+
+        <!--<constructor-arg  name="color" value="Grey"/>-->
+        <!--<constructor-arg  name="maker" value="Maruti"/>-->
+        <!--<constructor-arg  name="model" value="Maruti-Suzki-Vdi"/>-->
+        <!--<constructor-arg name="engine" ref="petrol"/>-->
+        <!--if we are not providing value then it will take default value-->
+        <!-- additional collaborators and configuration for this bean go here -->
+    </bean>
+    <bean id="petrol" class="com.labs.spring.core.Engine" primary="true" >
+        <property name="capacity" value="4"/>
+        <property name="type" value="Petrol"/>
+        <property name="cylinder" value="5"/>
+        <!-- additional collaborators and configuration for this bean go here -->
+    </bean>
+
+    <bean id="diesel" class="com.labs.spring.core.Engine">
+        <property name="capacity" value="5"/>
+        <property name="type" value="diesel"/>
+        <property name="cylinder" value="4"/>
+        <!-- additional collaborators and configuration for this bean go here -->
+    </bean>
+    <!-- more bean definitions for services go here -->
+</beans>

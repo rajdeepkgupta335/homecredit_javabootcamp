@@ -1,0 +1,5 @@
+6,nishu verma,current,154000.0,dilshad garden
+7,riya shrivastav,saving,44000.0,rajendar nagar
+8,ravi mishra,loan,34055.0,vivek vihar
+9,shyam,loan,54000,nand nagri
+10,rahul,saving,34000,pitampura
